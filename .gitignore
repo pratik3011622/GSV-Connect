@@ -1,0 +1,5 @@
+gsv-yearbook
+
+# Environment variables (global)
+.env*
+!.env.sample
